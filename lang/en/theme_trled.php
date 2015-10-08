@@ -25,4 +25,4 @@
 $string['pluginname'] = 'trled';
 $string['region-side-post'] = 'Right';
 $string['region-side-pre'] = 'Left';
-$string['choosereadme'] = 'trled, a Moodle 2.0 parent theme by Patrick Malley.';
+$string['choosereadme'] = 'trled, a Moodle 2 theme by Malcolm, based on Clean by Patrick Malley.';
